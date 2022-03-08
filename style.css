@@ -1,0 +1,197 @@
+school{
+	background-color: blue;
+	display: block;
+	text-align: center;
+	font-size:  40px;
+	color:white;
+	padding: .5%;
+	font-weight: bold;
+	border-style: solid;
+	border-color: coral;
+	
+}
+border {
+	padding: 1%;
+}
+subjectA {
+	text-align: center;
+	font-size: 25px;
+	display: block;
+	background-color:violet;
+	font-weight: bold;
+	padding-top: 1%;
+	
+}
+studentA1 {
+	text-align: center;
+	font-size: 20px;
+	display: block;
+	background-color:violet;
+	font-weight: bold;
+	
+}
+
+studentA {
+	text-align: center;
+	font-size: 20px;
+	display: block;
+	background-color:violet;
+	
+}
+border1 {
+	padding: 1%;
+}
+subjectB {
+	text-align: center;
+	font-size: 25px;
+	display: block;
+	background-color: red;
+	font-weight: bold;
+	padding-top: 1%;
+}
+studentB1 {
+	text-align: center;
+	font-size: 20px;
+	display: block;
+	background-color: red;
+	font-weight: bold;
+}
+studentB {
+	text-align: center;
+	font-size: 20px;
+	display: block;
+	background-color: red;
+
+}
+border2 {
+	padding: 1%;
+}
+subjectC {
+	text-align: center;
+	font-size: 25px;
+	display: block;
+	background-color: yellow;
+	font-weight: bold;
+	padding-top: 1%;
+	
+}
+studentC1 {
+	text-align: center;
+	font-size: 20px;
+	display: block;
+	background-color:yellow;
+	font-weight: bold;
+}
+
+studentC {
+	text-align: center;
+	font-size: 20px;
+	display: block;
+	background-color:yellow;
+	
+}
+border3 {
+	padding: 1%;
+}
+subjectD {
+	text-align: center;
+	font-size: 25px;
+	display: block;
+	background-color: brown;
+	font-weight: bold;
+	padding-top: 1%;
+	
+}
+studentD1 {
+	text-align: center;
+	font-size: 20px;
+	display: block;
+	background-color:brown;
+	font-weight: bold;
+}
+
+studentD {
+	text-align: center;
+	font-size: 20px;
+	display: block;
+	background-color:brown;
+	
+}
+border4 {
+	padding: 1%;
+}
+subjectE {
+	text-align: center;
+	font-size: 25px;
+	display: block;
+	background-color: pink;
+	font-weight: bold;
+	padding-top: 1%;
+	
+}
+studentE1 {
+	text-align: center;
+	font-size: 20px;
+	display: block;
+	background-color:pink;
+	font-weight: bold;
+}
+
+studentE {
+	text-align: center;
+	font-size: 20px;
+	display: block;
+	background-color:pink;
+	
+}
+border5 {
+	padding: 1%;
+}
+subjectF {
+	text-align: center;
+	font-size: 25px;
+	display: block;
+	background-color: darkcyan;
+	font-weight: bold;
+	padding-top: 1%;
+	
+}
+studentF1 {
+	text-align: center;
+	font-size: 20px;
+	display: block;
+	background-color:darkcyan;
+	font-weight: bold;
+}
+
+studentF {
+	text-align: center;
+	font-size: 20px;
+	display: block;
+	background-color:darkcyan;
+	
+}
+subjectG {
+	text-align: center;
+	font-size: 25px;
+	display: block;
+	background-color: purple;
+	font-weight: bold;
+	padding-top: 1%;
+	
+}
+studentG1 {
+	text-align: center;
+	font-size: 20px;
+	display: block;
+	background-color:purple;
+	font-weight: bold;
+}
+
+studentG {
+	text-align: center;
+	font-size: 20px;
+	display: block;
+	background-color:purple;
+	
+}

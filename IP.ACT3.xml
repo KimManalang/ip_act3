@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css" ?>
+
+<!DOCTYPE data
+
+[
+
+    <!ENTITY school "<name>IT THIRD YEAR SUBJECTS</name>">
+
+<!-- this is the subject 1 chart -->
+     <!ENTITY subject1 "<name>Title: Application Development and Emerging Technologies</name>">
+     <!ENTITY s1Teacher1 "<name>Teacher: Christian john Cariño</name>">
+     <!ENTITY s1DateTime2 "<name>Date and time: Monday 4:30pm-6:30pm/Friday 4:00pm-7:00pm</name>">
+     <!ENTITY s1Duration3 "<name>Duration: 4hrs/week</name>">
+     <!ENTITY s1SubjectLevel4 "<name>Subject Level: Major Subject</name>">
+     
+
+<!-- this is the subject 2 chart -->
+     <!ENTITY subject2 "<name>Title: Pagpapahalagang Pampanitikan</name>">
+     <!ENTITY s2Teacher1 "<name>Teacher: Jerome Sampayan</name>">
+     <!ENTITY s2DateTime2 "<name>Date and time: Tuesday 1:00pm-4:00pm</name>">
+     <!ENTITY s2Duration3 "<name>Duration: 4hrs/week</name>">
+     <!ENTITY s2SubjectLevel4 "<name>Subject Level: Minor Subject</name>">
+    
+
+<!-- this is the subject 3 chart -->
+     <!ENTITY subject3 "<name>Title: Web System and Technologies</name>">
+     <!ENTITY s3Teacher1 "<name>Teacher: Roseph Tungul</name>">
+     <!ENTITY s3DateTime2 "<name>Date and time: Monday 10:00am-12:00pm/Wednesday 10:00am-12:00pm</name>">
+     <!ENTITY s3Duration3 "<name>Duration: 2hrs/week</name>">
+     <!ENTITY s3SubjectLevel4 "<name>Subject Level: Major Subject</name>">
+
+<!-- this is the subject 4 chart -->
+     <!ENTITY subject4 "<name>Title: Platform Technologies</name>">
+     <!ENTITY s4Teacher1 "<name>Teacher: Christian john Cariño</name>">
+     <!ENTITY s4DateTime2 "<name>Date and time: Monday 10:00am-12:00pm/Wednesday 10:00am-12:00pm</name>">
+     <!ENTITY s4Duration3 "<name>Duration: 2hrs/week</name>">
+     <!ENTITY s4SubjectLevel4 "<name>Subject Level: Major Subject</name>">
+    
+<!-- this is the subject 5 chart -->
+     <!ENTITY subject5 "<name>Title: Information Assurance and Security 1</name>">
+     <!ENTITY s5Teacher1 "<name>Teacher: Christian john Cariño</name>">
+     <!ENTITY s5DateTime2 "<name>Date and time: Monday 1:00pm-4:00pm/Friday 1:00pm-4:00pm</name>">
+     <!ENTITY s5Duration3 "<name>Duration: 4hrs/week</name>">
+     <!ENTITY s5SubjectLevel4 "<name>Subject Level: Major Subject</name>">
+    
+<!-- this is the subject 6 chart -->
+     <!ENTITY subject6 "<name>Title: Intergrative Programming and Technologies</name>">
+     <!ENTITY s6Teacher1 "<name>Teacher: Roseph Tungul</name>">
+     <!ENTITY s6DateTime2 "<name>Date and time: Tuesday 10:00am-12:00pm/Thursday 10:00am-12:00pm</name>">
+     <!ENTITY s6Duration3 "<name>Duration: 2hrs/week</name>">
+     <!ENTITY s6SubjectLevel4 "<name>Subject Level: Major Subject</name>">
+    
+<!-- this is the subject 7 chart -->
+     <!ENTITY subject7 "<name>Title: Social Issues and Professional Practice</name>">
+     <!ENTITY s7Teacher1 "<name>Teacher: Roseph Tungul</name>">
+     <!ENTITY s7DateTime2 "<name>Date and time: Thursday 1:00pm-4:00pm</name>">
+     <!ENTITY s7Duration3 "<name>Duration: 4hrs/week</name>">
+     <!ENTITY s7SubjectLevel4 "<name>Subject Level: Major Subject</name>">
+    
+    
+ 
+ ]>
+
+
+
+
+ <organizationalChart>
+    
+    <school>&school;</school>
+    <border>
+        <subjectA>&subject1;</subjectA>
+            <studentA1>&s1Teacher1;</studentA1>
+            <studentA>&s1DateTime2;</studentA>
+            <studentA>&s1Duration3;</studentA>
+            <studentA>&s1SubjectLevel4;</studentA>
+</border>
+<border1>
+        <subjectB>&subject2;</subjectB>
+        	<studentB1>&s2Teacher1;</studentB1>
+            <studentB>&s2DateTime2;</studentB>
+            <studentB>&s2Duration3;</studentB>
+            <studentB>&s2SubjectLevel4;</studentB>
+</border1>
+<border2>
+        
+
+        <subjectC>&subject3;</subjectC>
+            <studentC1>&s3Teacher1;</studentC1>
+            <studentC>&s3DateTime2;</studentC>
+            <studentC>&s3Duration3;</studentC>
+            <studentC>&s3SubjectLevel4;</studentC>
+</border2>
+<border3>
+
+        <subjectD>&subject4;</subjectD>
+            <studentD1>&s4Teacher1;</studentD1>
+            <studentD>&s4DateTime2;</studentD>
+            <studentD>&s4Duration3;</studentD>
+            <studentD>&s4SubjectLevel4;</studentD>
+</border3>
+<border4>
+
+
+
+        <subjectE>&subject5;</subjectE>
+            <studentE1>&s5Teacher1;</studentE1>
+            <studentE>&s5DateTime2;</studentE>
+            <studentE>&s5Duration3;</studentE>
+            <studentE>&s5SubjectLevel4;</studentE>
+</border4>
+<border5>
+        
+
+        <subjectF>&subject6;</subjectF>
+            <studentF1>&s6Teacher1;</studentF1>
+            <studentF>&s6DateTime2;</studentF>
+            <studentF>&s6Duration3;</studentF>
+            <studentF>&s6SubjectLevel4;</studentF>
+</border5>
+        
+
+        <subjectG>&subject7;</subjectG>
+            <studentG1>&s7Teacher1;</studentG1>
+            <studentG>&s7DateTime2;</studentG>
+            <studentG>&s7Duration3;</studentG>
+            <studentG>&s7SubjectLevel4;</studentG>
+
+        
+
+
+
+
+</organizationalChart> 
+
